@@ -1,0 +1,15 @@
+Z:\Documents\source\repos\CSharpPlayerGuide\CShaRPG\CShaRPG\obj\Debug\net6.0\CShaRPG.csproj.AssemblyReference.cache
+Z:\Documents\source\repos\CSharpPlayerGuide\CShaRPG\CShaRPG\obj\Debug\net6.0\CShaRPG.GeneratedMSBuildEditorConfig.editorconfig
+Z:\Documents\source\repos\CSharpPlayerGuide\CShaRPG\CShaRPG\obj\Debug\net6.0\CShaRPG.AssemblyInfoInputs.cache
+Z:\Documents\source\repos\CSharpPlayerGuide\CShaRPG\CShaRPG\obj\Debug\net6.0\CShaRPG.AssemblyInfo.cs
+Z:\Documents\source\repos\CSharpPlayerGuide\CShaRPG\CShaRPG\obj\Debug\net6.0\CShaRPG.csproj.CoreCompileInputs.cache
+Z:\Documents\source\repos\CSharpPlayerGuide\CShaRPG\CShaRPG\bin\Debug\net6.0\CShaRPG.exe
+Z:\Documents\source\repos\CSharpPlayerGuide\CShaRPG\CShaRPG\bin\Debug\net6.0\CShaRPG.deps.json
+Z:\Documents\source\repos\CSharpPlayerGuide\CShaRPG\CShaRPG\bin\Debug\net6.0\CShaRPG.runtimeconfig.json
+Z:\Documents\source\repos\CSharpPlayerGuide\CShaRPG\CShaRPG\bin\Debug\net6.0\CShaRPG.dll
+Z:\Documents\source\repos\CSharpPlayerGuide\CShaRPG\CShaRPG\bin\Debug\net6.0\CShaRPG.pdb
+Z:\Documents\source\repos\CSharpPlayerGuide\CShaRPG\CShaRPG\obj\Debug\net6.0\CShaRPG.dll
+Z:\Documents\source\repos\CSharpPlayerGuide\CShaRPG\CShaRPG\obj\Debug\net6.0\refint\CShaRPG.dll
+Z:\Documents\source\repos\CSharpPlayerGuide\CShaRPG\CShaRPG\obj\Debug\net6.0\CShaRPG.pdb
+Z:\Documents\source\repos\CSharpPlayerGuide\CShaRPG\CShaRPG\obj\Debug\net6.0\CShaRPG.genruntimeconfig.cache
+Z:\Documents\source\repos\CSharpPlayerGuide\CShaRPG\CShaRPG\obj\Debug\net6.0\ref\CShaRPG.dll
